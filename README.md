@@ -1,1 +1,0 @@
-# alsectech.github.io
