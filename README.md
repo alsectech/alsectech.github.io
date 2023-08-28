@@ -1,4 +1,4 @@
-## $\mathbb{\color{magenta}{\ Official \ Web \ Pages \ AlsecTech \ Beta}}$
+## $\mathbb{\color{magenta}{\ Official \ Web \ Pages \ AlsecTech \ (Beta)}}$
 ### $${\color{green}Shop Details}$$
 
 
