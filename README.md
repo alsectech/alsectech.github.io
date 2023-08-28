@@ -1,4 +1,4 @@
-## $${\color{lightgreen} Official \space Web \space Pages \space AlsecTech \space}$$ $\mathbb{\color{magenta}{\ Beta}}$ 
+## $\mathbb{\color{magenta}{\ Official \ Web \ Pages \ AlsecTech \ Beta}}$$
 ### $${\color{green}Shop Details}$$
 
 $${\color{lightblue} Tools, \space Exams, \space Ebooks, \space Software, \space Hardware, \space Reviewers}$$
