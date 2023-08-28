@@ -6,9 +6,9 @@ function valid_datas( f ){
 	}else if( f.email.value == '' ){
 		jQuery('#form_status').html('<span class="wrong">Your email must not be empty and correct format!</span>');
 		notice( f.email );
-	//}else if( f.phone.value == '' ){
-		//jQuery('#form_status').html('<span class="wrong">Your phone must not be empty and correct format!</span>');
-		//notice( f.phone );
+	}else if( f.phone.value == '' ){
+		jQuery('#form_status').html('<span class="wrong">Your phone must not be empty and correct format!</span>');
+		notice( f.phone );
 	}else if( f.subject.value == '' ){
 		jQuery('#form_status').html('<span class="wrong">Your subject must not be empty!</span>');
 		notice( f.subject );
