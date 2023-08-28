@@ -1,5 +1,5 @@
 ## $\mathbb{\color{magenta}{\ Official \ Web \ Pages \ AlsecTech \ (Beta)}}$
-### $${\color{green}Shop Details}$$
+### $${\color{green}Shop \space Details}$$
 
 
 $${\color{lightblue} Tools, \space Exams, \space Ebooks, \space Software, \space Hardware, \space Reviewers}$$
